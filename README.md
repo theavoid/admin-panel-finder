@@ -1,7 +1,7 @@
 # 🔎 Admin Panel Finder
 Admin panel finder developed with Python. Supports more than 100 paths. Trying to improve day by day :)
 
-## Supported Paths
+## 🚧 Supported Paths
 ```
 /admin
 /wp-admin
