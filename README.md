@@ -133,7 +133,7 @@ Admin panel finder developed with Python. Supports more than 100 paths. Trying t
 /kurumsal
 ```
 
-## Images from the finder
+## 🖼️ Images from the finder
 ![title](https://i.hizliresim.com/6becxlg.jpg)
 ![title](https://i.hizliresim.com/aytip20.jpg)
 
